@@ -10,7 +10,15 @@ def application():
     window.setWindowTitle("pydicators")
     window.setGeometry(300, 250, 350, 200)
 
+    main_text = QtWidgets.QLabel(window)
+    main_text.setText("cOOL")
+    main_text.move(100, 100)
+
+
+
     window.show()
     sys.exit(app.exec_())
+
+
 if __name__ == "__main__":
     application()
