@@ -1,1 +1,1 @@
-Before launching somthing read this file and be... careful
+Before launching somthing read this file and be... careful\/
