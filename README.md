@@ -1,1 +1,1 @@
-shall we continue
+Before launching somthing read this file and be... careful
